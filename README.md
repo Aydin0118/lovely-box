@@ -1,1 +1,5 @@
-<img width="257" height="105" alt="image" src="https://github.com/user-attachments/assets/aa1f77ca-38c1-4988-9a7e-be9039169dfd" />
+#在屏幕上随机分配窗口
+
+效果如下
+<img width="1275" height="667" alt="image" src="https://github.com/user-attachments/assets/a09f89fd-9497-4f94-a2be-33875db15ab7" />
+
