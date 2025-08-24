@@ -1,8 +1,19 @@
 # 表白 | 小惊喜
 * 作为程序员怎么能忘记家里的小可爱呢
 
-  As a programmer, how could one forget about the little one at home?
+  As a programmer, how could one forget about the little one at home?j
+
+* 说明
+
+  本站所有代码均有exe文件与HTML文件，exe可以在电脑运行，HTML可以打包成apk在安卓运行
+  >软件包在dist文件夹中
   
+
+  All the codes on this site come with an exe file and an HTML file
+  
+  The exe file can be run on a computer
+  
+  and the HTML file can be packaged into an apk for running on Android devices.
 
 
 
