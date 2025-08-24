@@ -6,7 +6,11 @@ $ python3 -m venv ./venv && source venv/bin/activate
 $ python3 -m pip install pygame
 $ python3 love.py
 ```
+```
+python love.py
+```
 
 # 效果
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/001.jpg"/>
+
