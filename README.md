@@ -1,4 +1,4 @@
-# 表白 | 小惊喜
+#  | 小惊喜
 * 作为程序员怎么能忘记家里的小可爱呢
 
   As a programmer, how could one forget about the little one at home?
@@ -31,3 +31,21 @@
 * -w是取消显示控制台（终端）
 * -i自定义图标
 * 每个指令隔一个空格
+
+
+
+# 执行
+
+```shell
+$ cd Awesome-Love-Code/Python/001
+$ python3 -m venv ./venv && source venv/bin/activate
+$ python3 -m pip install pygame
+$ python3 love.py
+```
+```
+python love.py
+```
+
+# 效果
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/001.jpg"/>
