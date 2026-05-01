@@ -1,15 +1,15 @@
 import tkinter as tk
 import random
 from concurrent.futures import ThreadPoolExecutor
-#import time
-xc=100
+
+xc=1000#窗口数量
 
 def root():
     root=tk.Tk()
     root.title('love')
     #root.iconbitmap()
     try:
-        root.iconbitmap(r'D:\党培祥\tkinter教程\窗口跳动\狗.ico')
+        root.iconbitmap(r'')#图标路径
     except:
       
         pass
