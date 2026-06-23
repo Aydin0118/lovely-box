@@ -25,6 +25,22 @@
 * -i自定义图标
 * 每个指令隔一个空格
 
+
+# [月薪喵 -桌面宠物](月薪喵)
+- 有多种互动方式
+  
+<img width="663" height="258" alt="image" src="https://github.com/user-attachments/assets/d5019259-6c56-4128-8dce-348c7e2cc5ae" />
+
+<img width="713" height="250" alt="image" src="https://github.com/user-attachments/assets/66905c92-0445-4c09-9d6b-6579e3730e72" />
+
+
+
+
+
+
+
+
+
 # [在屏幕上随机分配窗口](https://github.com/Aydin0118/lovely-box/tree/main/2)
 
 效果如下 复制窗口跳动.py的代码可以实现，可以任意修改文字与背景，透明度等参数
