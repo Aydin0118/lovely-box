@@ -18,13 +18,6 @@
   and the HTML file can be packaged into an apk for running on Android devices.
 
 
-
-# [在屏幕上随机分配窗口](https://github.com/Aydin0118/lovely-box/tree/main/2)
-
-效果如下 复制窗口跳动.py的代码可以实现，可以任意修改文字与背景，透明度等参数
-<img width="1275" height="667" alt="image" src="https://github.com/user-attachments/assets/a09f89fd-9497-4f94-a2be-33875db15ab7" />
-安装python环境后在cmd安装pyinstaller来打包文件成exe
-
 # 打包代码
 * pyinstaller -F -w -i \图标文件路径\ \py文件路径\
 * -F是单独文件
@@ -32,7 +25,18 @@
 * -i自定义图标
 * 每个指令隔一个空格
 
+# [在屏幕上随机分配窗口](https://github.com/Aydin0118/lovely-box/tree/main/2)
 
+效果如下 复制窗口跳动.py的代码可以实现，可以任意修改文字与背景，透明度等参数
+<img width="1275" height="667" alt="image" src="https://github.com/user-attachments/assets/a09f89fd-9497-4f94-a2be-33875db15ab7" />
+安装python环境后在cmd安装pyinstaller来打包文件成exe
+
+
+# [gui窗口绘制](gui绘制爱心)
+<img width="1263" height="653" alt="image" src="https://github.com/user-attachments/assets/b4790a0d-34dc-4d73-b6c0-efbbb899238c" />
+
+# 2
+<img width="1185" height="603" alt="image" src="https://github.com/user-attachments/assets/21c19b2d-7aa5-4bbd-baaa-d1da44c883ae" />
 
 # 执行
 
@@ -51,8 +55,4 @@ python love.py
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/001.jpg"/>
 
 
-# gui窗口绘制
-<img width="1263" height="653" alt="image" src="https://github.com/user-attachments/assets/b4790a0d-34dc-4d73-b6c0-efbbb899238c" />
 
-# 2
-<img width="1185" height="603" alt="image" src="https://github.com/user-attachments/assets/21c19b2d-7aa5-4bbd-baaa-d1da44c883ae" />
