@@ -54,19 +54,12 @@
 # 2
 <img width="1185" height="603" alt="image" src="https://github.com/user-attachments/assets/21c19b2d-7aa5-4bbd-baaa-d1da44c883ae" />
 
-# 执行
 
-```shell
-$ cd Awesome-Love-Code/Python/001
-$ python3 -m venv ./venv && source venv/bin/activate
-$ python3 -m pip install pygame
-$ python3 love.py
-```
-```
-python love.py
-```
+# [heart dance](html)
+# heart 
+<img width="1358" height="610" alt="image" src="https://github.com/user-attachments/assets/e40e49c1-5f6a-439f-a20b-4d2d8185b998" />
 
-# 效果
+
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/001.jpg"/>
 
